@@ -15,5 +15,6 @@ const employees = [
     { name: "shikot", experience: 9, starting: 30000, increment: 1000 },
     { name: "shohel", experience: 0, starting: 29000, increment: 4000 },
 ];
+
 const totalSalary = calculateTotalSalary(employees);
 console.log(totalSalary);
