@@ -1,13 +1,13 @@
 # JavaScript Problems (Part-02) Practice Tasks
 
-### Task -1: 
+### Task-1: 
 Find the lowest number in the array below.
 <br>
 `const heights2 = [167, 190, 120, 165, 137];`
 
 ---
 
-### Task -2: 
+### Task-2: 
 Find the friend with the smallest name.
 <br>
 `const heights2 = ['rahim', 'robin', 'rafi', 'ron', 'rashed'];`
@@ -29,9 +29,7 @@ Write a JavaScript function named `calculateElectronicsBudget` that takes in the
 
 You are `given an array of phone objects`, each containing information about the `model, brand, and price`. Your task is to write a JavaScript function named `findAveragePhonePrice` that takes this `array as input` and returns the `average price of phone`.
 
-**Input**
-
-<br>
+**Input :**
 
 ```js
         const phones = [
@@ -45,8 +43,10 @@ You are `given an array of phone objects`, each containing information about the
 ```
 
 ---
-### Task -5: (Hard)
+### Task-5: (Hard)
 For each employee their current salary is calculated by multiplying yearly increment with experience then adding the result to the starting salary. Now calculate is the total salary has to be provided by the company in a month.
+
+**Input :**
 
 ```js
  const employees = [
